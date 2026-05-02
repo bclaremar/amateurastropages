@@ -19,6 +19,8 @@
         - aperture
         - magnification
         - SQM
+     
+- Balancing eyepiece with regard to present SQM and telescope
  
 - Surface brightness limits
     - as of
@@ -41,5 +43,16 @@
         - aperture
         - focal length
         - pixel size
+     
+- SNR (v 0.2)
  
- 
+## Astrophysics
+
+- Clusters statistics (how many stars will be visible)
+    - age
+    - turnoff
+    - distance
+    - absolute magnitude
+    - apparent magnitude
+
+- Surface brightness maps of nebulae and galaxies
