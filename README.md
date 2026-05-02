@@ -1,1 +1,1 @@
-# amateurastropages
+# Björn's amateur astro pages
