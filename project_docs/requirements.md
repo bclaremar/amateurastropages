@@ -6,10 +6,40 @@
 
 ## Topics
 
+### Sky quality
+
 - SQM
     - as of solar altitude below horizon
     - as of time of year and day 
-- Magnitude
-    - as of telescope and eyepiece
+
+###  Visual
+
+- Magnitude limits
+    - as of
+        - aperture
+        - magnification
+        - SQM
+ 
+- Surface brightness limits
+    - as of
+        - SQM
+        - size of object
+        - aperture
+        - magnification
+     
+- Surface brightness curves of objects and visibility
+    - as of
+        - SQM
+        - size of object
+        - aperture
+        - magnification   
+
+### Astrophotography 
+
+- Limiting (turbulent) seeing for telescopes (diffraction or seeing limited)
+    - with respect to
+        - aperture
+        - focal length
+        - pixel size
  
  
