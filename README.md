@@ -4,7 +4,7 @@
 
 ### Teori
 
-![SQM_maj2](docs/img/SQM_alt.png)
+<img src="docs/img/SQM_alt.png" width="50%" >
 
 ### Maj
 
@@ -13,7 +13,7 @@
 
 #### Är det värt att åka ut på landet?
 
-![SQM_maj2](docs/img/SQM_diff_maj.png){ width=50% }
+<img src="docs/img/SQM_diff_maj.png" width="50%" >
 
 #### När blir det mörkt?
 
