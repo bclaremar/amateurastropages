@@ -37,4 +37,6 @@ Här presenteras grafer på solens vinkel under horisonten och SQM om funktioner
 
 #### När blir det mörkt?
 
-![SQM_maj2](docs/img/SQM_v19_timme.png)
+![SQM_maj2](docs/img/SQM_maj4_15_timme.png)
+
+![SQM_maj2](docs/img/SQM_maj_day.png)
