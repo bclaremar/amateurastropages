@@ -1,12 +1,20 @@
 # Björns amatörastrosidor
 
+## Innehåll
+
+- [SQM](#SQM]
+
 ## SQM
 
 ### Teori
 
 <img src="docs/img/SQM_alt.png" width="50%" >
 
-### Maj
+### Grafer
+
+#### Solens djup under horistonten i maj-juni
+
+<img src="docs/img/sol_alt_maj_jun.png" width="50%" >
 
 #### Konturgraf
 ![SQM_maj2](docs/img/SQM_maj2.png)
