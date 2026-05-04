@@ -8,7 +8,7 @@
 
 ### Sky quality
 
-- SQM
+- [x] SQM
     - as of solar altitude below horizon
     - as of time of year and day 
 
