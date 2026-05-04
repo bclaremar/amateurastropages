@@ -17,6 +17,7 @@ Det finns en relation mellan solens vinkel under horisonten, "solar depression",
 Nedan syns en graf från ekvationen (behöver hitta referensen) där jag också använt definitionen för Bortle-skalan. Talen till höger anger Bortle för arean mellan kurvorna, som alltså är gränsfallen. Väl att märka är att man når sin Bortle-nivå när man närmar sig 18° under horisonten men att det sker tidigare ju högre Bortle man har.
 
 <img src="docs/img/SQM_alt.png" width="50%" >
+
 *SQM som funktion av "solar depression". Linjer är för olika Bortle*
 
 ### Grafer
