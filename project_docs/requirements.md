@@ -2,7 +2,7 @@
 
 ## Goal
 
-- Make my graphs and calculations available for the public as images and or tools
+- Make my graphs and calculations available for the public as images and/or tools
 
 ## Topics
 
