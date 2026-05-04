@@ -14,7 +14,7 @@
 
 ###  Visual
 
-- Magnitude limits
+- [] Magnitude limits
     - as of
         - aperture
         - magnification
