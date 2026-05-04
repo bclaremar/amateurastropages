@@ -14,22 +14,22 @@
 
 ###  Visual
 
-- [] Magnitude limits
+- [ ] Magnitude limits
     - as of
         - aperture
         - magnification
         - SQM
      
-- Balancing eyepiece with regard to present SQM and telescope
+- [ ] Balancing eyepiece with regard to present SQM and telescope
  
-- Surface brightness limits
+- [ ] Surface brightness (SB) limits
     - as of
         - SQM
         - size of object
         - aperture
         - magnification
      
-- Surface brightness curves of objects and visibility
+- [ ] Surface brightness (SB) curves of objects and visibility
     - as of
         - SQM
         - size of object
@@ -38,21 +38,21 @@
 
 ### Astrophotography 
 
-- Limiting (turbulent) seeing for telescopes (diffraction or seeing limited)
+- [ ] Limiting (turbulent) seeing for telescopes (diffraction or seeing limited)
     - with respect to
         - aperture
         - focal length
         - pixel size
      
-- SNR (v 0.2)
+- [ ] SNR (v 0.2)
  
 ## Astrophysics
 
-- Clusters statistics (how many stars will be visible)
+- [ ] Clusters statistics (how many stars will be visible)
     - age
     - turnoff
     - distance
     - absolute magnitude
     - apparent magnitude
 
-- Surface brightness maps of nebulae and galaxies
+- [ ] Surface brightness maps of nebulae and galaxies
