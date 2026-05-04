@@ -5,7 +5,7 @@
 Här presenterar jag figurer på olika intressanta relationer i amatörstronomin. Sidan kommer att fyllas på och få en bättre formattering med menysystem mm. Framåt somamren kanske jag har lagt in några kalkylatorer om jag får det att fungera!
 Håll till godo med detta så länge!
 
-- [SQM](#SQM]
+- [SQM](#SQM)
 
 ## SQM
 
