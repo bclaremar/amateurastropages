@@ -12,11 +12,11 @@
 
 ### Grafer
 
-#### Solens djup under horistonten i maj-juni
+#### Konturgraf: Solens djup under horistonten i maj-juni
 
 <img src="docs/img/sol_alt_maj_jun.png" width="50%" >
 
-#### Konturgraf
+#### Konturgraf: SQM
 ![SQM_maj2](docs/img/SQM_maj2.png)
 
 #### Är det värt att åka ut på landet?
