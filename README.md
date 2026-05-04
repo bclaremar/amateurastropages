@@ -26,9 +26,12 @@ Här presenteras grafer på solens vinkel under horisonten och SQM om funktioner
 
 #### Konturgraf: Solens djup under horistonten i maj-juni
 
+Denna figur påminner om de vi får från höstens nummer av "Telescopium". Diagonala linjer visar Vilken RA som står i söder vid aktuell tid. Nu hittar vi mest objekt kring 14-16h.
+
 <img src="docs/img/sol_alt_maj_jun.png" width="50%" >
 
 #### Konturgraf: SQM i maj
+
 ![SQM_maj2](docs/img/SQM_maj3.png)
 
 #### Är det värt att åka ut på landet?
