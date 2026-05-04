@@ -4,6 +4,8 @@
 
 Här presenterar jag figurer på olika intressanta relationer i amatörstronomin. Sidan kommer att fyllas på och få en bättre formattering med menysystem, pedagogiska boxar mm. Framåt sommaren kanske jag har lagt in några kalkylatorer om jag får det att fungera.
 
+Här är min [plan](https://github.com/bclaremar/amateurastropages/blob/main/project_docs/requirements.md) för diagram jag redan har men behöver justera.
+
 Håll till godo med detta så länge!
 
 - [SQM](#SQM)
