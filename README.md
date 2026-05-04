@@ -16,8 +16,8 @@
 
 <img src="docs/img/sol_alt_maj_jun.png" width="50%" >
 
-#### Konturgraf: SQM
-![SQM_maj2](docs/img/SQM_maj2.png)
+#### Konturgraf: SQM i maj
+![SQM_maj2](docs/img/SQM_maj3.png)
 
 #### Är det värt att åka ut på landet?
 
